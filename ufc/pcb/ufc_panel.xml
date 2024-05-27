@@ -1,0 +1,2064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>Z:\1_HomeCockpit\A-10C Panels (Updated 04OCT2023)\A-10C Panels\1) Main Instrument Panel\Up Front Controller (UFC)\ufc_panel\ufc_panel.kicad_sch</source>
+    <date>20.02.2024 13:04:06</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ufc_panel.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026768bc-3d69-4bff-a3ce-ae40aa3f735b</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c6e708c-33a4-4229-932e-f0905fc2223b</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c7a722f-de05-4cbf-b33d-8d8d40721e38</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a763a67-45e5-4155-a55f-152f95824902</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b600ae84-cc53-49cf-ba6b-bc8991dd5f35</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bb5e95a-eed6-4db6-84e1-7f1232c1d0f6</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b194f616-fd8a-478a-a700-fd7e65a0858c</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8686d877-1d31-42aa-9a56-b9b5bbc93222</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c833093f-5bee-4f0e-9e56-0363bd24ce40</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07b705e3-e06a-4a7b-addd-2e767996d030</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58d9444b-328c-44f3-8df3-9f22aa7f99a6</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60317490-2052-4940-a1d4-ea115bebaeb6</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8d032b1-5511-4ab4-8a07-b5a15c7dece4</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8405dda-d51a-4c26-8deb-e019d611fdfc</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935a2714-0562-417b-b4b8-abbece5609d6</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e1a1319-c8cd-41b9-b2ac-09723add478b</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e90a638-cb01-438a-8441-d107c4c77514</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b939769-ddc6-4f5a-9b69-e778127711b4</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4089b555-1f5a-4943-abfd-fd2d2217d763</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8e16131-4721-408e-9a5b-3d9b44c87dfb</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0797ad99-64e9-4e21-9cee-c6952387a8be</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63a948d6-909b-482d-9d51-c27a9d8ce525</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36981b80-df07-4d9f-abb7-931951fb6e5b</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b1c99ea-312d-445c-a97e-b9d2fe428d4e</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a9c0724-3861-4abc-a14f-5684f42a3d1f</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ab28c35-ad5c-42eb-8aa2-c9b0472b1354</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41dd2744-0d74-457d-a0f7-b9b9a52fbd7e</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37de0313-0201-4109-b688-8fe01e586f14</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d87163e0-af40-4957-878d-a8cc5380a588</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7382a54e-59ab-4f84-bbd5-0b7e9019ff03</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86ea86b6-5442-466c-abee-565a7e565ca6</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b79700d1-2b93-4849-be1e-e28de19b6851</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18ab5ecb-ce8d-4704-8c2f-1452f83f9385</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ed1b641-b8ea-4d7f-ac60-3592828ed7cb</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>727a2b87-0a8b-4213-939f-fa83f9d06a18</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dead02b-fed3-47b6-901b-d227854f232a</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3de2978f-23a2-4f89-b193-c65fe238a899</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ab1888e-f89a-484e-ac0a-1508cc9a72d4</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecb75a7f-f748-4cb0-9e1a-d20b0b83c4dd</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0c861d0-4f72-43de-a3d6-4db7ec231cff</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f060eda-4327-4648-a648-6bdcfa19e1b1</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55a4b1be-2f52-455f-b50f-a280a660d51d</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a079a94c-389c-4687-a722-360cc8156ca5</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>109e8df1-1a99-4d11-8ce1-b9c3d2a3dfc9</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a4bfdb8-f1c0-4d4a-8d5a-dd269f185b2a</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ba8fe48-c2b2-47c5-a455-13a8ba6cf0d4</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6ae5f5c-9c0f-4e6b-8457-f8d12e123b75</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>HSMG-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMG-C150" description="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMG-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMG-C150"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb250762-71b7-4e88-8749-a70fa227ee6d</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>HSMY-C150</value>
+      <footprint>MOUSER:LEDC3216X120N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0551EN</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="LSCS">C188734</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMY-C150</field>
+        <field name="Mouser Part Number">630-HSMY-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMY-C150?qs=YDL0qNrpDT7cmrKmdVqnTg%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="HSMY-C150" description="Broadcom 586 nm Yellow LED, 3216 (1206) SMD package"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="630-HSMY-C150"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMY-C150?qs=YDL0qNrpDT7cmrKmdVqnTg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMY-C150"/>
+      <property name="LSCS" value="C188734"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Broadcom 586 nm Yellow LED, 3216 (1206) SMD package"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30a39dc8-b263-4d09-8dfc-6722e8f5cd5f</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC817-25LT1G</value>
+      <footprint>MOUSER:SOT96P237X111-3N</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF</datasheet>
+      <fields>
+        <field name="Height">1.11</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">BC817-25LT1G</field>
+        <field name="Mouser Part Number">863-BC817-25LT1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/BC817-25LT1G?qs=vNc2DXHODiKXfZ%2Fmh%252BHi1g%3D%3D</field>
+      </fields>
+      <libsource lib="MOUSER" part="BC817-25LT1G" description="Transistor NPN 45V 0.5A hfe160 SOT23 ON Semi BC817-25LT1G NPN Bipolar Transistor,  0.5 A 45 V, 3-Pin SOT-23"/>
+      <property name="Height" value="1.11"/>
+      <property name="Mouser Part Number" value="863-BC817-25LT1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/BC817-25LT1G?qs=vNc2DXHODiKXfZ%2Fmh%252BHi1g%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="BC817-25LT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Transistor NPN 45V 0.5A hfe160 SOT23 ON Semi BC817-25LT1G NPN Bipolar Transistor,  0.5 A 45 V, 3-Pin SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc1f7686-5034-402d-9c6e-e2c8538b8dfd</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6c246e-a02e-4d66-81e2-2daecb5c48b0</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20818e5-c984-4697-922a-f86ff83a0047</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>572053d9-4cc9-4d36-915a-8ad7d2aa971b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>060619de-991c-42b6-9f75-d79e49bdaa16</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>387bf616-0bf2-4303-97ed-e71ea0204ddc</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e282b23c-dd1e-49de-90fb-aa5609c25647</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>513ff9d4-1ec9-4d32-b801-3b2bdc3e945a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be69da12-7839-412c-8ef9-c0b76bebb16b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8a528d9-1aca-4115-acbb-73d08eb3e91c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ebf6d4b-2974-431b-8923-ba81c9c3f0d2</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2f2a4f0-83ad-4207-9854-e21a3b448b35</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90f7fe40-c0d0-4ed7-8317-cf208a9a88cd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>270</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>167b952a-a353-4477-ae35-f4121e7ff885</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>3300</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>794bf5af-1cf6-461a-9509-8748df0311d8</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LSCS" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c4854c8-5a9f-4372-a997-d7e4a66e6aab</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>719c2642-eec4-48d3-be38-ba0bb82668c2</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f52cb38-07e6-4454-8044-2cc11db4b517</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33f6670a-2467-4ee7-ae17-ee9a99614c4f</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fb214f9-30c0-4948-8f8e-4303946afff6</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d33898a-d8af-42e3-9712-9ed25cc9a82e</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>061aad1b-fd5a-4b28-b96d-9be191aa420e</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d55657a3-d0f7-4ee7-ad3b-014bd9341d6c</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>624318a8-aa19-4f1c-936a-a340521ca3b8</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63c76934-7e2e-4090-93ce-8d4c2f58e67a</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96654532-11f5-42d3-a18b-2cf4dc706e33</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ea452b0-490a-4e0e-8cab-d972748da61b</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bd4489f-9aa0-4800-83de-70daf67d9fcc</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e03dcd58-f529-4be0-9136-f25c9b03e81b</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>937596b5-d096-4602-9338-9a8aaa2aa6b1</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5408ee54-4d5b-443f-bd36-da462eed5621</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17a1ba84-bc13-4650-98c5-3531b1a13725</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e72f2a70-d022-43c5-8328-8165af40419b</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1c7b76a-cc91-46b5-8b5d-6ce9186bc4c8</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23fdf0ef-6e21-4b30-add9-864d289353fc</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e848fec-85a9-4053-bb18-f2ba316eee04</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a320e028-f4da-485d-978d-1c8e8c50c6c7</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6ba6342-052f-4c6e-95b3-52c54df316b8</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a5e196-cc97-4e7f-b0ad-8c91aaaf6b87</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eef3688e-352c-490b-97a3-405e7e7138fb</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12ff8395-72a8-4112-b329-36028cb125a6</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>402a92c8-0f72-42c3-ba40-18aaefb9771a</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46a5fb8c-b80b-4d6f-a994-91f122da7a7d</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c4ede1f-32c9-47ea-958b-0b7ed64a548f</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>444ee668-a9a0-4be7-9f6a-6388301fecf7</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb90d71e-31a5-4100-bfb9-94d25c3ec246</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31b830fd-9d71-4a9f-843c-e0a9fef89200</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38aaf256-be7e-45cf-a2a9-60aca91e46c7</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d38dd0c-26f3-4d40-8851-8e2d695763f3</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48d1161e-2f0b-4cf4-9a24-b01fa02b6539</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_Push_45deg</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>272e41c3-1667-41d6-ac3e-10e51013b9ba</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <footprint>promicro:ARDUINO_PRO_MICRO</footprint>
+      <libsource lib="promicro" part="ProMicro" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ufc_panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9435e41f-b9f9-4ac1-99a2-85d22c42577a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MOUSER" part="BC817-25LT1G">
+      <description>Transistor NPN 45V 0.5A hfe160 SOT23 ON Semi BC817-25LT1G NPN Bipolar Transistor,  0.5 A 45 V, 3-Pin SOT-23</description>
+      <docs>http://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817-25LT1G</field>
+        <field name="Footprint">SOT96P237X111-3N</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF</field>
+        <field name="Height">1.11</field>
+        <field name="Mouser Part Number">863-BC817-25LT1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/BC817-25LT1G?qs=vNc2DXHODiKXfZ%2Fmh%252BHi1g%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">BC817-25LT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MOUSER" part="HSMG-C150">
+      <description>Broadcom2.2 V Green LED 3216 (1206)  SMD, HSMG-C150</description>
+      <docs>https://docs.broadcom.com/docs/AV02-0551EN</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">HSMG-C150</field>
+        <field name="Footprint">LEDC3216X120N</field>
+        <field name="Datasheet">https://docs.broadcom.com/docs/AV02-0551EN</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">630-HSMG-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C150?qs=YDL0qNrpDT6zJe9nNPPiZQ%3D%3D</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMG-C150</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MOUSER" part="HSMY-C150">
+      <description>Broadcom 586 nm Yellow LED, 3216 (1206) SMD package</description>
+      <docs>https://docs.broadcom.com/docs/AV02-0551EN</docs>
+      <fields>
+        <field name="Reference">LED14</field>
+        <field name="Value">HSMY-C150</field>
+        <field name="Footprint">MOUSER:LEDC3216X120N</field>
+        <field name="Datasheet">https://docs.broadcom.com/docs/AV02-0551EN</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">630-HSMY-C150</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMY-C150?qs=YDL0qNrpDT7cmrKmdVqnTg%3D%3D</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMY-C150</field>
+        <field name="LSCS">C188734</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_45deg">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_45deg</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="promicro" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX" type="bidirectional"/>
+        <pin num="2" name="RX" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="bidirectional"/>
+        <pin num="7" name="D4" type="bidirectional"/>
+        <pin num="8" name="C6" type="bidirectional"/>
+        <pin num="9" name="D7" type="bidirectional"/>
+        <pin num="10" name="E6" type="bidirectional"/>
+        <pin num="11" name="B4" type="bidirectional"/>
+        <pin num="12" name="B5" type="bidirectional"/>
+        <pin num="13" name="B6" type="bidirectional"/>
+        <pin num="14" name="B2" type="bidirectional"/>
+        <pin num="15" name="B3" type="bidirectional"/>
+        <pin num="16" name="B1" type="bidirectional"/>
+        <pin num="17" name="F7" type="bidirectional"/>
+        <pin num="18" name="F6" type="bidirectional"/>
+        <pin num="19" name="F5" type="bidirectional"/>
+        <pin num="20" name="F4" type="bidirectional"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MOUSER">
+      <uri>C:/Users/mahrt/Documents/KiCad/7.0/libraries/SamacSys_Parts.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="promicro">
+      <uri>C:/Users/mahrt/Documents/kidcad symbols/ProMicroKiCad-master/promicro_library/promicro.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="5V">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="COL0">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="E6" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="COL1">
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="D7" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL2">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="C6" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL3">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="D4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL4">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="F4" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL5">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL6">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="B3" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="COL7">
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="COL8">
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="F7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="COL9">
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="F6" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="COL10">
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="F5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="COL11">
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="COL12">
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="16" name="GND_MC">
+      <node ref="LED14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="17" name="LED">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="RX" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="LED_MC">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="TX" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D24-A)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D27-A)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D29-A)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D31-A)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D32-A)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D33-A)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D34-A)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D35-A)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(LED1-A)">
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(LED1-K)">
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(LED2-A)">
+      <node ref="LED2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(LED3-A)">
+      <node ref="LED3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(LED4-A)">
+      <node ref="LED4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(LED5-A)">
+      <node ref="LED5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(LED6-A)">
+      <node ref="LED6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(LED7-A)">
+      <node ref="LED7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(LED8-A)">
+      <node ref="LED8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(LED9-A)">
+      <node ref="LED9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(LED10-A)">
+      <node ref="LED10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(LED11-A)">
+      <node ref="LED11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(LED12-A)">
+      <node ref="LED12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(LED13-A)">
+      <node ref="LED13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(LED14-A)">
+      <node ref="LED14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(Q1-B)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="ROW0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="B5" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="ROW1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="B4" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="ROW2">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="B6" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="unconnected-(U1-GND-Pad23)">
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="74" name="unconnected-(U1-RAW-Pad24)">
+      <node ref="U1" pin="24" pinfunction="RAW" pintype="power_out"/>
+    </net>
+    <net code="75" name="unconnected-(U1-RST-Pad22)">
+      <node ref="U1" pin="22" pinfunction="RST" pintype="input"/>
+    </net>
+  </nets>
+</export>
