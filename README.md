@@ -2,6 +2,9 @@
 
 Welcome to the A10C Simpit Projects repository! This repository contains all the PCB designs and DCS-Bios Arduino code for various components of an A10C Simpit, currently including the UFC (Up-Front Controller) and MFCD (Multi-Function Color Display).
 
+## Sponsorship
+Thank you so much PCBWay.com for sponsoring parts of this project! I was genuinely surprised by how quickly the PCBs arrived - in just 9 days, without even opting for the very express shipping variant. The quality is outstanding, and the PCBs work flawlessly in my setup. It's been a fantastic experience, from design submission to receiving the boards ready for assembly.
+
 ## Projects
 
 ### UFC (Up-Front Controller)
