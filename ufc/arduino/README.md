@@ -1,5 +1,8 @@
 # A10C UFC Arduino
 
+> [!IMPORTANT]  
+> This project uses an altered version of DCS-BIOS-arduino-library. It is included in the `lib/` directory.
+
 This directory contains the code for the A10C UFC (Up Front Controller) project. The project is designed to interface with DCS:Worlds A-10C II using an Arduino Nano and the DCS-BIOS over COM. The UFC includes functionality for various buttons and LEDs found on the ingame A10C UFC, such as Master Caution lights that are flashing, or dimming the backlight.
 
 ## Table of Contents
