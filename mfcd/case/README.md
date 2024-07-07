@@ -1,4 +1,5 @@
 # A10C-II MFCD Case
+![Case UpperLid](./img/case_3.png)
 
 Here is my case design. Designed with Shapr3D.
 
@@ -18,3 +19,12 @@ Just snap the `UpperLid` and `Lid` together (some force required). Insert PCB in
 - [ ] Multicolor for white/translucent text and borders
 - [ ] 2-way switch design (like UFC)
 - [ ] Gray height adjust for 3-way switch (DAY/NT/OFF) selector. (The gray part below the knob.)
+
+
+## Images
+### Bottom
+![Case Bottom](./img/case_1.png)
+### Lid
+![Case Lid](./img/case_2.png)
+### UpperLid
+![Case UpperLid](./img/case_3.png)
